@@ -1,0 +1,34 @@
+TODO list
+
+TODO implement auto tweet by schedule
+TODO gather each teams twitter handle
+TODO for lower leagues put league rules in ordered list to match with league names to print in tweet, still print bottom 4 (or whoever is possibly relegated)
+
+
+TODO figure out how to make some text bold for tweets
+
+
+
+CHECKLIST:
+             | basic  |  scheduled tweets  |  info (points, games remaining)  |  relegation/promotion rules
+_____________|________|____________________|__________________________________|______________________________
+prem         |   $    |         x          |             x                    |             x
+championship |   $    |         x          |             x                    |             x
+league 1     |   $    |         x          |             x                    |             x
+league 2     |   $    |         x          |             x                    |             x
+natl league  |   $    |         x          |             x                    |             x
+L6           |   $    |         x          |             x                    |             x
+L7           |   $    |         x          |             x                    |             x
+L8           |   $    |         x          |             x                    |             x
+
+
+             | string format |
+_____________|_______________|____________________|__________________________________|________________________
+prem         |       $       |         x          |             x                    |             x
+championship |       x       |         x          |             x                    |             x
+league 1     |       x       |         x          |             x                    |             x
+league 2     |       x       |         x          |             x                    |             x
+natl league  |       x       |         x          |             x                    |             x
+L6           |       x       |         x          |             x                    |             x
+L7           |       x       |         x          |             x                    |             x
+L8           |       x       |         x          |             x                    |             x
