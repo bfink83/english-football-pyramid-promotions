@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import dataframe_image as dfi
 import requests
 
 def prem():
@@ -73,3 +74,5 @@ Europa Conference League:
 
   print(df['Team'].str.len().max())
   return [tweet_string_rel, tweet_string_europa, tweet_string_ucl]
+  # dfi.export(df,"mytable.png")
+  # return ["test", "./mytable.png"]
