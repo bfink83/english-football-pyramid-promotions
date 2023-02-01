@@ -9,3 +9,6 @@ temp/
 
 # ignore other folder
 other/
+
+#ignore DS_Store file
+.DS_Store

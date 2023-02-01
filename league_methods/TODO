@@ -22,9 +22,9 @@ L7           |   $    |         x          |             x                    | 
 L8           |   $    |         x          |             x                    |             x
 
 
-             | string format |
+             | dataframe img |
 _____________|_______________|____________________|__________________________________|________________________
-prem         |       $       |         x          |             x                    |             x
+prem         |       x       |         x          |             x                    |             x
 championship |       x       |         x          |             x                    |             x
 league 1     |       x       |         x          |             x                    |             x
 league 2     |       x       |         x          |             x                    |             x

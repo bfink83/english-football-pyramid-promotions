@@ -32,7 +32,7 @@ if __name__ == '__main__':
   yeah = 1
 
   for t in prem():
-    tweet(api, t)
+    tweet(api, t[0], t[1])
 
   if yeah == 0:
     for t in prem():
